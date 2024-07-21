@@ -20,4 +20,4 @@ echo 'src-git modemfeed https://github.com/koshev-msk/modemfeed' >>feeds.conf.de
 echo 'src-git 3ginfo https://github.com/4IceG/luci-app-3ginfo-lite' >>feeds.conf.default
 echo 'src-git passwallpackages https://github.com/xiaorouji/openwrt-passwall-packages' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-
+echo 'src-git openclash https://github.com/vernesong/OpenClash' >>feeds.conf.default
